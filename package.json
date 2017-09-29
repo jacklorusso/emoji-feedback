@@ -1,0 +1,28 @@
+{
+  "name": "emoji-feedback",
+  "version": "0.0.1",
+  "description": "React components for NPS and feedback tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Lo Russo <jack.lorusso@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "emoji",
+    "feedback",
+    "form",
+    "nps",
+    "pulse",
+    "react",
+    "sentiment"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lol-russo/emoji-feedback.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lol-russo/emoji-feedback/issues"
+  },
+  "homepage": "https://github.com/lol-russo/emoji-feedback#readme"
+}
